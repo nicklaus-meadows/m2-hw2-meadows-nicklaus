@@ -5,7 +5,11 @@ body {
 
 h1 {
     text-align: center;
-    background-image: linear-gradient(#347deb whitesmoke);
+    background-color: #aecdfc;
+    color: whitesmoke;
+    -webkit-text-stroke: thin #347deb;
+    border-radius: 5px;
+    padding: 10px
 }
 
 #newt {
@@ -33,6 +37,11 @@ h1 {
     text-align: center;
     
    
+}
+
+#lake {
+    width: 100%;
+    border-radius: 2px;
 }
 
 li:not(#exclude1) {
