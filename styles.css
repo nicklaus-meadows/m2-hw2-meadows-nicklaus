@@ -7,7 +7,6 @@ h1 {
     text-align: center;
     background-color: #aecdfc;
     color: whitesmoke;
-    -webkit-text-stroke: thin #347deb;
     border-radius: 5px;
     padding: 10px
 }
